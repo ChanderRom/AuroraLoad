@@ -1,5 +1,3 @@
-----------TODO---------
-
 # AURORA LOAD
 ### Script for automate the aurora-load command, for [Aurora](https://github.com/avvale/aurora-cli)
 
